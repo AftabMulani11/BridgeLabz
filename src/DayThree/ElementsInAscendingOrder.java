@@ -1,6 +1,6 @@
 package DayThree;
 
-public class WrrwyElementsInAscendingOrder {
+public class ElementsInAscendingOrder {
     public static void main(String[] args) {
         int[] arr = {15, 15, 45, 75, 1, 85, 45, 75};
         int n = arr.length;
